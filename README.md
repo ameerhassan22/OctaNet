@@ -6,7 +6,8 @@
   <br> a deeper understanding of concepts through hands-on application of the knowledge student gained as an intern. 
   <br> This is going to be a great opportunity for the future.
 </p> 
- ## Tasks
+<h3>Tasks
+</h3>
  <table>
    <tr>
      <th>ATM INTERFACE</th>
